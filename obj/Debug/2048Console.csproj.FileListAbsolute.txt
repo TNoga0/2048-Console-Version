@@ -1,0 +1,6 @@
+D:\Visual Studio 2015\Projects\2048Console\2048Console\bin\Debug\2048Console.exe.config
+D:\Visual Studio 2015\Projects\2048Console\2048Console\bin\Debug\2048Console.exe
+D:\Visual Studio 2015\Projects\2048Console\2048Console\bin\Debug\2048Console.pdb
+D:\Visual Studio 2015\Projects\2048Console\2048Console\obj\Debug\2048Console.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\2048Console\2048Console\obj\Debug\2048Console.exe
+D:\Visual Studio 2015\Projects\2048Console\2048Console\obj\Debug\2048Console.pdb
